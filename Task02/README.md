@@ -6,7 +6,7 @@ Prime Game — это веб-приложение, в котором польз�
 
 ## Установка через Github
 ```sh
-git clone https://github.com/stxrsh1ne/PHP_Ilyushkin_YAV.git
+git clone https://github.com/waitingforlove24/PHP_Masharin_DV.git
 ```
 ## Процесс запуска приложения
 
